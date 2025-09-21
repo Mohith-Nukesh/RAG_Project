@@ -27,15 +27,21 @@ A Python-based AI-powered **support assistant** using Retrieval-Augmented Genera
 ## Folder Structure
 
 RAG_Project/
-├── codes/                # Python scripts
+│
+├── codes/                  # Python scripts
 │   ├── main.py
-│   └── ... other scripts
-├── data/                 # Dataset PDFs
-│   └── example.pdf
-├── analysis/             # Result images / plots
-│   └── example_plot.jpg
-├── requirements.txt      # Python dependencies
-└── README.md             # Project overview
+│   └── utils.py
+│
+├── data/                   # Dataset PDFs
+│   ├── dataset1.pdf
+│   └── dataset2.pdf
+│
+├── analysis/               # Analysis images / plots
+│   ├── plot1.jpg
+│   └── plot2.jpg
+│
+├── requirements.txt        # Python dependencies
+└── README.md               # Project overview
 
 
 ---
