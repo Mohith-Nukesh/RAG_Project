@@ -1,5 +1,4 @@
 
-README.md
 # RAG-Based Support Assistant
 
 A Python-based AI-powered **support assistant** using Retrieval-Augmented Generation (RAG) for context-aware FAQ responses and ticket handling. This assistant can answer questions using a PDF knowledge base, an existing KB, or both, and also supports ticket logging, escalation, and conversation tracking.
