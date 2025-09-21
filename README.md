@@ -24,21 +24,18 @@ A Python-based AI-powered **support assistant** using Retrieval-Augmented Genera
   - Logs FAQ and ticket sessions in JSON files for later analysis.
 
 ---
-
-## **Folder Structure**
-
-
+## Folder Structure
 
 RAG_Project/
-├── codes/ # Python scripts
-│ ├── main.py
-│ └── ... other scripts
-├── data/ # Dataset PDFs
-│ └── example.pdf
-├── analysis/ # Result images, visualizations
-│ └── example_plot.jpg
-├── requirements.txt # Required Python packages
-└── README.md # Project overview
+├── codes/                # Python scripts
+│   ├── main.py
+│   └── ... other scripts
+├── data/                 # Dataset PDFs
+│   └── example.pdf
+├── analysis/             # Result images / plots
+│   └── example_plot.jpg
+├── requirements.txt      # Python dependencies
+└── README.md             # Project overview
 
 
 ---
