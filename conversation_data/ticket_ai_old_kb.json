@@ -1,0 +1,1154 @@
+[
+  {
+    "session_id": "Sb24eb",
+    "ticket_id": "T6d753",
+    "user_id": "514",
+    "timestamp": "2025-09-10 15:53:48",
+    "rating": 6,
+    "feedback": "The AI was okay, needed some clarification.",
+    "num_sub_queries": 2,
+    "escalated": false,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Purchase order delay",
+        "ai_answer": "**Solution for:** Purchase order delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p30)",
+          "docs\\Procurement_sample.pdf (p30)",
+          "docs\\Procurement_sample.pdf (p47)"
+        ]
+      },
+      {
+        "complaint": "Budget approval needed",
+        "ai_answer": "**Solution for:** Budget approval needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p39)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S1ffcf",
+    "ticket_id": "Td7659",
+    "user_id": "406",
+    "timestamp": "2025-09-18 16:36:48",
+    "rating": 4,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Legal approval delay",
+        "ai_answer": "**Solution for:** Legal approval delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p44)",
+          "docs\\Legal_sample.pdf (p17)",
+          "docs\\Legal_sample.pdf (p26)"
+        ]
+      },
+      {
+        "complaint": "Legal approval delay",
+        "ai_answer": "**Solution for:** Legal approval delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p16)"
+        ]
+      },
+      {
+        "complaint": "NDA question",
+        "ai_answer": "**Solution for:** NDA question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p31)"
+        ]
+      },
+      {
+        "complaint": "Policy violation query",
+        "ai_answer": "**Solution for:** Policy violation query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p37)",
+          "docs\\Legal_sample.pdf (p5)",
+          "docs\\Legal_sample.pdf (p6)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S310cb",
+    "ticket_id": "Tc81cf",
+    "user_id": "534",
+    "timestamp": "2025-09-15 22:06:48",
+    "rating": 3,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p27)",
+          "docs\\IT_sample.pdf (p14)",
+          "docs\\IT_sample.pdf (p12)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p44)",
+          "docs\\IT_sample.pdf (p22)",
+          "docs\\IT_sample.pdf (p5)"
+        ]
+      },
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p46)",
+          "docs\\IT_sample.pdf (p21)",
+          "docs\\IT_sample.pdf (p6)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S44dc7",
+    "ticket_id": "Tffc9b",
+    "user_id": "698",
+    "timestamp": "2025-09-17 14:57:48",
+    "rating": 4,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Compliance form missing",
+        "ai_answer": "**Solution for:** Compliance form missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p36)"
+        ]
+      },
+      {
+        "complaint": "Compliance form missing",
+        "ai_answer": "**Solution for:** Compliance form missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p5)"
+        ]
+      },
+      {
+        "complaint": "Policy violation query",
+        "ai_answer": "**Solution for:** Policy violation query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p37)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S2b5d9",
+    "ticket_id": "T43467",
+    "user_id": "668",
+    "timestamp": "2025-09-19 13:22:48",
+    "rating": 3,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Leave balance not updated",
+        "ai_answer": "**Solution for:** Leave balance not updated\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p45)",
+          "docs\\HR_sample.pdf (p41)",
+          "docs\\HR_sample.pdf (p9)"
+        ]
+      },
+      {
+        "complaint": "Benefits query",
+        "ai_answer": "**Solution for:** Benefits query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p11)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sc5967",
+    "ticket_id": "T4881e",
+    "user_id": "828",
+    "timestamp": "2025-09-10 13:18:48",
+    "rating": 6,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "VPN not connecting",
+        "ai_answer": "**Solution for:** VPN not connecting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p19)",
+          "docs\\IT_sample.pdf (p39)"
+        ]
+      },
+      {
+        "complaint": "Laptop not starting",
+        "ai_answer": "**Solution for:** Laptop not starting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p8)",
+          "docs\\IT_sample.pdf (p41)"
+        ]
+      },
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p46)"
+        ]
+      },
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p39)",
+          "docs\\IT_sample.pdf (p28)",
+          "docs\\IT_sample.pdf (p8)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S79207",
+    "ticket_id": "T24f43",
+    "user_id": "387",
+    "timestamp": "2025-09-15 12:23:48",
+    "rating": 6,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "HR portal login issue",
+        "ai_answer": "**Solution for:** HR portal login issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p30)"
+        ]
+      },
+      {
+        "complaint": "HR portal login issue",
+        "ai_answer": "**Solution for:** HR portal login issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p8)",
+          "docs\\HR_sample.pdf (p18)"
+        ]
+      },
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p29)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S4b009",
+    "ticket_id": "T886b7",
+    "user_id": "619",
+    "timestamp": "2025-09-13 18:43:48",
+    "rating": 5,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "IP issue",
+        "ai_answer": "**Solution for:** IP issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p15)",
+          "docs\\Legal_sample.pdf (p40)"
+        ]
+      },
+      {
+        "complaint": "Compliance form missing",
+        "ai_answer": "**Solution for:** Compliance form missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p29)"
+        ]
+      },
+      {
+        "complaint": "Contract review needed",
+        "ai_answer": "**Solution for:** Contract review needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p36)"
+        ]
+      },
+      {
+        "complaint": "Policy violation query",
+        "ai_answer": "**Solution for:** Policy violation query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p17)",
+          "docs\\Legal_sample.pdf (p20)",
+          "docs\\Legal_sample.pdf (p39)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S6de00",
+    "ticket_id": "Te6df4",
+    "user_id": "268",
+    "timestamp": "2025-09-20 14:49:48",
+    "rating": 8,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 4,
+    "escalated": false,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "HR portal login issue",
+        "ai_answer": "**Solution for:** HR portal login issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p2)"
+        ]
+      },
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p7)",
+          "docs\\HR_sample.pdf (p41)",
+          "docs\\HR_sample.pdf (p38)"
+        ]
+      },
+      {
+        "complaint": "Policy clarification needed",
+        "ai_answer": "**Solution for:** Policy clarification needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p13)",
+          "docs\\HR_sample.pdf (p50)",
+          "docs\\HR_sample.pdf (p45)"
+        ]
+      },
+      {
+        "complaint": "Leave balance not updated",
+        "ai_answer": "**Solution for:** Leave balance not updated\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p32)",
+          "docs\\HR_sample.pdf (p6)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Se8f1d",
+    "ticket_id": "T6ddd0",
+    "user_id": "327",
+    "timestamp": "2025-09-18 17:08:48",
+    "rating": 4,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p34)"
+        ]
+      },
+      {
+        "complaint": "Email access issue",
+        "ai_answer": "**Solution for:** Email access issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p49)",
+          "docs\\IT_sample.pdf (p47)"
+        ]
+      },
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p25)",
+          "docs\\IT_sample.pdf (p37)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S71022",
+    "ticket_id": "T521f0",
+    "user_id": "610",
+    "timestamp": "2025-09-09 21:33:48",
+    "rating": 7,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p49)"
+        ]
+      },
+      {
+        "complaint": "Stationery request",
+        "ai_answer": "**Solution for:** Stationery request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p37)",
+          "docs\\Procurement_sample.pdf (p37)"
+        ]
+      },
+      {
+        "complaint": "Purchase order delay",
+        "ai_answer": "**Solution for:** Purchase order delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p2)",
+          "docs\\Procurement_sample.pdf (p50)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sa2e45",
+    "ticket_id": "T8ee1c",
+    "user_id": "150",
+    "timestamp": "2025-09-16 18:41:48",
+    "rating": 5,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Policy violation query",
+        "ai_answer": "**Solution for:** Policy violation query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p46)"
+        ]
+      },
+      {
+        "complaint": "NDA question",
+        "ai_answer": "**Solution for:** NDA question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p18)",
+          "docs\\Legal_sample.pdf (p19)"
+        ]
+      },
+      {
+        "complaint": "Compliance form missing",
+        "ai_answer": "**Solution for:** Compliance form missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p43)",
+          "docs\\Legal_sample.pdf (p36)"
+        ]
+      },
+      {
+        "complaint": "IP issue",
+        "ai_answer": "**Solution for:** IP issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p30)",
+          "docs\\Legal_sample.pdf (p12)",
+          "docs\\Legal_sample.pdf (p23)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sf36e6",
+    "ticket_id": "T6b32d",
+    "user_id": "536",
+    "timestamp": "2025-09-20 05:38:48",
+    "rating": 6,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 3,
+    "escalated": false,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "VPN not connecting",
+        "ai_answer": "**Solution for:** VPN not connecting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p34)",
+          "docs\\IT_sample.pdf (p11)",
+          "docs\\IT_sample.pdf (p40)"
+        ]
+      },
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p15)",
+          "docs\\IT_sample.pdf (p33)",
+          "docs\\IT_sample.pdf (p7)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p8)",
+          "docs\\IT_sample.pdf (p31)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sd1c82",
+    "ticket_id": "T9c249",
+    "user_id": "532",
+    "timestamp": "2025-09-18 07:19:48",
+    "rating": 4,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "AC not working",
+        "ai_answer": "**Solution for:** AC not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Facilities_sample.pdf (p29)",
+          "docs\\Facilities_sample.pdf (p36)"
+        ]
+      },
+      {
+        "complaint": "Room booking failed",
+        "ai_answer": "**Solution for:** Room booking failed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Facilities_sample.pdf (p7)",
+          "docs\\Facilities_sample.pdf (p15)",
+          "docs\\Facilities_sample.pdf (p3)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S786fb",
+    "ticket_id": "T883f8",
+    "user_id": "629",
+    "timestamp": "2025-09-15 01:21:48",
+    "rating": 9,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Salary slip missing",
+        "ai_answer": "**Solution for:** Salary slip missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p5)",
+          "docs\\HR_sample.pdf (p34)"
+        ]
+      },
+      {
+        "complaint": "Leave balance not updated",
+        "ai_answer": "**Solution for:** Leave balance not updated\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p14)",
+          "docs\\HR_sample.pdf (p29)",
+          "docs\\HR_sample.pdf (p34)"
+        ]
+      },
+      {
+        "complaint": "Benefits query",
+        "ai_answer": "**Solution for:** Benefits query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p30)",
+          "docs\\HR_sample.pdf (p28)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sc1739",
+    "ticket_id": "T72687",
+    "user_id": "539",
+    "timestamp": "2025-09-10 00:30:48",
+    "rating": 5,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Cleaning required",
+        "ai_answer": "**Solution for:** Cleaning required\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Facilities_sample.pdf (p25)",
+          "docs\\Facilities_sample.pdf (p31)",
+          "docs\\Facilities_sample.pdf (p30)"
+        ]
+      },
+      {
+        "complaint": "Furniture repair request",
+        "ai_answer": "**Solution for:** Furniture repair request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Facilities_sample.pdf (p11)",
+          "docs\\Facilities_sample.pdf (p14)"
+        ]
+      },
+      {
+        "complaint": "Furniture repair request",
+        "ai_answer": "**Solution for:** Furniture repair request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Facilities_sample.pdf (p1)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sbbaba",
+    "ticket_id": "Td953f",
+    "user_id": "668",
+    "timestamp": "2025-09-14 02:27:48",
+    "rating": 4,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Purchase order delay",
+        "ai_answer": "**Solution for:** Purchase order delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p43)",
+          "docs\\Procurement_sample.pdf (p46)"
+        ]
+      },
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p5)",
+          "docs\\Procurement_sample.pdf (p19)"
+        ]
+      },
+      {
+        "complaint": "Invoice missing",
+        "ai_answer": "**Solution for:** Invoice missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p50)"
+        ]
+      },
+      {
+        "complaint": "Stationery request",
+        "ai_answer": "**Solution for:** Stationery request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p46)",
+          "docs\\Procurement_sample.pdf (p38)",
+          "docs\\Procurement_sample.pdf (p46)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S00a8f",
+    "ticket_id": "T6f6fa",
+    "user_id": "121",
+    "timestamp": "2025-09-19 13:40:48",
+    "rating": 8,
+    "feedback": "The AI was okay, needed some clarification.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p21)",
+          "docs\\IT_sample.pdf (p32)",
+          "docs\\IT_sample.pdf (p15)"
+        ]
+      },
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p15)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p42)",
+          "docs\\IT_sample.pdf (p14)",
+          "docs\\IT_sample.pdf (p12)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p24)",
+          "docs\\IT_sample.pdf (p3)",
+          "docs\\IT_sample.pdf (p1)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sfa638",
+    "ticket_id": "T86fb7",
+    "user_id": "447",
+    "timestamp": "2025-09-11 22:49:48",
+    "rating": 9,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Laptop not starting",
+        "ai_answer": "**Solution for:** Laptop not starting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p41)",
+          "docs\\IT_sample.pdf (p33)"
+        ]
+      },
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p42)"
+        ]
+      },
+      {
+        "complaint": "Email access issue",
+        "ai_answer": "**Solution for:** Email access issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p36)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sa1426",
+    "ticket_id": "Ta21b5",
+    "user_id": "349",
+    "timestamp": "2025-09-12 17:17:48",
+    "rating": 9,
+    "feedback": "The AI was okay, needed some clarification.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p13)",
+          "docs\\IT_sample.pdf (p45)"
+        ]
+      },
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p39)",
+          "docs\\IT_sample.pdf (p16)"
+        ]
+      },
+      {
+        "complaint": "Email access issue",
+        "ai_answer": "**Solution for:** Email access issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p13)",
+          "docs\\IT_sample.pdf (p49)",
+          "docs\\IT_sample.pdf (p22)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S27867",
+    "ticket_id": "Tf196f",
+    "user_id": "969",
+    "timestamp": "2025-09-19 07:44:48",
+    "rating": 8,
+    "feedback": "Clear instructions, very helpful.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "HR portal login issue",
+        "ai_answer": "**Solution for:** HR portal login issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p1)",
+          "docs\\HR_sample.pdf (p16)"
+        ]
+      },
+      {
+        "complaint": "HR portal login issue",
+        "ai_answer": "**Solution for:** HR portal login issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p5)",
+          "docs\\HR_sample.pdf (p28)",
+          "docs\\HR_sample.pdf (p31)"
+        ]
+      },
+      {
+        "complaint": "Policy clarification needed",
+        "ai_answer": "**Solution for:** Policy clarification needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p35)",
+          "docs\\HR_sample.pdf (p39)"
+        ]
+      },
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p47)",
+          "docs\\HR_sample.pdf (p41)",
+          "docs\\HR_sample.pdf (p6)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sd4ae8",
+    "ticket_id": "T4b5d1",
+    "user_id": "161",
+    "timestamp": "2025-09-10 16:54:48",
+    "rating": 8,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p48)",
+          "docs\\IT_sample.pdf (p49)"
+        ]
+      },
+      {
+        "complaint": "VPN not connecting",
+        "ai_answer": "**Solution for:** VPN not connecting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p40)",
+          "docs\\IT_sample.pdf (p13)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S27050",
+    "ticket_id": "T67dbd",
+    "user_id": "534",
+    "timestamp": "2025-09-11 01:24:48",
+    "rating": 6,
+    "feedback": "Not very clear, had to escalate.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p32)",
+          "docs\\Procurement_sample.pdf (p14)"
+        ]
+      },
+      {
+        "complaint": "Vendor issue",
+        "ai_answer": "**Solution for:** Vendor issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p2)",
+          "docs\\Procurement_sample.pdf (p38)",
+          "docs\\Procurement_sample.pdf (p13)"
+        ]
+      },
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p29)",
+          "docs\\Procurement_sample.pdf (p38)",
+          "docs\\Procurement_sample.pdf (p47)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S977b6",
+    "ticket_id": "T3f05a",
+    "user_id": "372",
+    "timestamp": "2025-09-16 07:37:48",
+    "rating": 8,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Leave balance not updated",
+        "ai_answer": "**Solution for:** Leave balance not updated\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p42)",
+          "docs\\HR_sample.pdf (p3)"
+        ]
+      },
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p45)",
+          "docs\\HR_sample.pdf (p17)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S7429d",
+    "ticket_id": "T0e97b",
+    "user_id": "905",
+    "timestamp": "2025-09-12 20:33:48",
+    "rating": 6,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "IP issue",
+        "ai_answer": "**Solution for:** IP issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p45)",
+          "docs\\Legal_sample.pdf (p14)",
+          "docs\\Legal_sample.pdf (p20)"
+        ]
+      },
+      {
+        "complaint": "Compliance form missing",
+        "ai_answer": "**Solution for:** Compliance form missing\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Legal_sample.pdf (p4)",
+          "docs\\Legal_sample.pdf (p44)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S44684",
+    "ticket_id": "Ta0249",
+    "user_id": "800",
+    "timestamp": "2025-09-10 07:37:48",
+    "rating": 8,
+    "feedback": "Average answer, partially solved the problem.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p46)",
+          "docs\\HR_sample.pdf (p17)"
+        ]
+      },
+      {
+        "complaint": "Policy clarification needed",
+        "ai_answer": "**Solution for:** Policy clarification needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p7)",
+          "docs\\HR_sample.pdf (p1)",
+          "docs\\HR_sample.pdf (p48)"
+        ]
+      },
+      {
+        "complaint": "Onboarding process question",
+        "ai_answer": "**Solution for:** Onboarding process question\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p23)",
+          "docs\\HR_sample.pdf (p33)"
+        ]
+      },
+      {
+        "complaint": "Benefits query",
+        "ai_answer": "**Solution for:** Benefits query\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\HR_sample.pdf (p31)",
+          "docs\\HR_sample.pdf (p16)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S3ae2b",
+    "ticket_id": "Tcacd4",
+    "user_id": "838",
+    "timestamp": "2025-09-15 22:03:48",
+    "rating": 3,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Laptop not starting",
+        "ai_answer": "**Solution for:** Laptop not starting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p3)",
+          "docs\\IT_sample.pdf (p38)",
+          "docs\\IT_sample.pdf (p5)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p24)",
+          "docs\\IT_sample.pdf (p32)",
+          "docs\\IT_sample.pdf (p18)"
+        ]
+      },
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p2)",
+          "docs\\IT_sample.pdf (p30)",
+          "docs\\IT_sample.pdf (p14)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sff172",
+    "ticket_id": "T3c581",
+    "user_id": "168",
+    "timestamp": "2025-09-14 06:17:48",
+    "rating": 9,
+    "feedback": "Helpful response, solved my issue.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Resolved",
+    "conversation": [
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p13)",
+          "docs\\Procurement_sample.pdf (p35)"
+        ]
+      },
+      {
+        "complaint": "Budget approval needed",
+        "ai_answer": "**Solution for:** Budget approval needed\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p15)",
+          "docs\\Procurement_sample.pdf (p39)"
+        ]
+      },
+      {
+        "complaint": "Purchase order delay",
+        "ai_answer": "**Solution for:** Purchase order delay\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p21)",
+          "docs\\Procurement_sample.pdf (p38)",
+          "docs\\Procurement_sample.pdf (p2)"
+        ]
+      },
+      {
+        "complaint": "Equipment request",
+        "ai_answer": "**Solution for:** Equipment request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\Procurement_sample.pdf (p13)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S992ed",
+    "ticket_id": "T36d1f",
+    "user_id": "491",
+    "timestamp": "2025-09-15 16:40:48",
+    "rating": 9,
+    "feedback": "The AI was okay, needed some clarification.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "Software installation request",
+        "ai_answer": "**Solution for:** Software installation request\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p34)",
+          "docs\\IT_sample.pdf (p34)",
+          "docs\\IT_sample.pdf (p34)"
+        ]
+      },
+      {
+        "complaint": "Printer not working",
+        "ai_answer": "**Solution for:** Printer not working\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p45)",
+          "docs\\IT_sample.pdf (p18)",
+          "docs\\IT_sample.pdf (p6)"
+        ]
+      },
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p25)"
+        ]
+      },
+      {
+        "complaint": "VPN not connecting",
+        "ai_answer": "**Solution for:** VPN not connecting\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p9)",
+          "docs\\IT_sample.pdf (p34)",
+          "docs\\IT_sample.pdf (p35)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S620f8",
+    "ticket_id": "Tfb967",
+    "user_id": "893",
+    "timestamp": "2025-09-20 09:09:48",
+    "rating": 3,
+    "feedback": "Good guidance, could be faster.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "status": "Pending",
+    "conversation": [
+      {
+        "complaint": "System slow",
+        "ai_answer": "**Solution for:** System slow\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p17)"
+        ]
+      },
+      {
+        "complaint": "Email access issue",
+        "ai_answer": "**Solution for:** Email access issue\n* Follow standard procedures.\n* Contact relevant team if needed.\n\u26a0\ufe0f As per my knowledge, verify with team",
+        "sources": [
+          "docs\\IT_sample.pdf (p11)"
+        ]
+      }
+    ]
+  }
+]

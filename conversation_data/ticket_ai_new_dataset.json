@@ -1,0 +1,1110 @@
+[
+  {
+    "session_id": "S19b8b",
+    "ticket_id": "T77525",
+    "user_id": "783",
+    "timestamp": "2025-09-05 10:50:02",
+    "rating": 4,
+    "feedback": "Excellent support, thank you.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Legal ticket 1.",
+        "ai_answer": "AI suggested solution for complaint 1 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p83)",
+          "docs\\Legal_2.pdf (p72)",
+          "docs\\Legal_3.pdf (p43)",
+          "docs\\Legal_4.pdf (p70)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Legal ticket 1.",
+        "ai_answer": "AI suggested solution for complaint 2 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p70)",
+          "docs\\Legal_2.pdf (p39)",
+          "docs\\Legal_3.pdf (p73)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Legal ticket 1.",
+        "ai_answer": "AI suggested solution for complaint 3 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p80)",
+          "docs\\Legal_2.pdf (p82)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Legal ticket 1.",
+        "ai_answer": "AI suggested solution for complaint 4 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p72)",
+          "docs\\Legal_2.pdf (p16)",
+          "docs\\Legal_3.pdf (p33)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S9befc",
+    "ticket_id": "Tcc43f",
+    "user_id": "566",
+    "timestamp": "2025-09-05 14:19:26",
+    "rating": 8,
+    "feedback": "Excellent support, thank you.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 2.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p26)",
+          "docs\\HR_2.pdf (p89)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 2.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p38)",
+          "docs\\HR_2.pdf (p7)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for HR ticket 2.",
+        "ai_answer": "AI suggested solution for complaint 3 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p63)",
+          "docs\\HR_2.pdf (p43)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for HR ticket 2.",
+        "ai_answer": "AI suggested solution for complaint 4 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p94)",
+          "docs\\HR_2.pdf (p7)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S1292b",
+    "ticket_id": "T241df",
+    "user_id": "630",
+    "timestamp": "2025-09-02 11:22:52",
+    "rating": 9,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 3.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p89)",
+          "docs\\Procurement_2.pdf (p5)",
+          "docs\\Procurement_3.pdf (p25)",
+          "docs\\Procurement_4.pdf (p24)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 3.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p72)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Procurement ticket 3.",
+        "ai_answer": "AI suggested solution for complaint 3 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p81)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Procurement ticket 3.",
+        "ai_answer": "AI suggested solution for complaint 4 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p40)",
+          "docs\\Procurement_2.pdf (p62)",
+          "docs\\Procurement_3.pdf (p54)",
+          "docs\\Procurement_4.pdf (p10)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S9456f",
+    "ticket_id": "Td8f5a",
+    "user_id": "147",
+    "timestamp": "2025-09-09 01:14:12",
+    "rating": 6,
+    "feedback": "I had to ask twice but got the answer.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 4.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p58)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 4.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p75)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Facilities ticket 4.",
+        "ai_answer": "AI suggested solution for complaint 3 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p33)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Facilities ticket 4.",
+        "ai_answer": "AI suggested solution for complaint 4 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p22)",
+          "docs\\Facilities_2.pdf (p97)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sad4ff",
+    "ticket_id": "Tf22d7",
+    "user_id": "910",
+    "timestamp": "2025-09-14 16:12:56",
+    "rating": 6,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 5.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p71)",
+          "docs\\Facilities_2.pdf (p67)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 5.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p92)",
+          "docs\\Facilities_2.pdf (p88)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sf72d7",
+    "ticket_id": "T8ec2f",
+    "user_id": "911",
+    "timestamp": "2025-09-09 11:48:18",
+    "rating": 5,
+    "feedback": "Helpful overall, though slightly generic.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 6.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p22)",
+          "docs\\Procurement_2.pdf (p91)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 6.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p32)",
+          "docs\\Procurement_2.pdf (p27)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sca8d8",
+    "ticket_id": "Te3fd9",
+    "user_id": "799",
+    "timestamp": "2025-09-01 13:19:31",
+    "rating": 3,
+    "feedback": "Helpful overall, though slightly generic.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 7.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p44)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 7.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p34)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Facilities ticket 7.",
+        "ai_answer": "AI suggested solution for complaint 3 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p74)",
+          "docs\\Facilities_2.pdf (p21)",
+          "docs\\Facilities_3.pdf (p29)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Facilities ticket 7.",
+        "ai_answer": "AI suggested solution for complaint 4 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p30)",
+          "docs\\Facilities_2.pdf (p52)",
+          "docs\\Facilities_3.pdf (p85)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S152ae",
+    "ticket_id": "T04034",
+    "user_id": "565",
+    "timestamp": "2025-09-10 07:21:06",
+    "rating": 3,
+    "feedback": "Pretty good, but lacked some detail.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 8.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p75)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 8.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p35)",
+          "docs\\Procurement_2.pdf (p54)",
+          "docs\\Procurement_3.pdf (p94)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Se48a3",
+    "ticket_id": "T805b4",
+    "user_id": "309",
+    "timestamp": "2025-09-12 19:22:50",
+    "rating": 5,
+    "feedback": "The response was clear and helpful.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 9.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p38)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 9.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p56)",
+          "docs\\HR_2.pdf (p91)",
+          "docs\\HR_3.pdf (p31)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for HR ticket 9.",
+        "ai_answer": "AI suggested solution for complaint 3 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p64)",
+          "docs\\HR_2.pdf (p14)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S8ecf4",
+    "ticket_id": "T62d04",
+    "user_id": "460",
+    "timestamp": "2025-09-20 04:28:12",
+    "rating": 3,
+    "feedback": "Helpful overall, though slightly generic.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 10.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p20)",
+          "docs\\Procurement_2.pdf (p13)",
+          "docs\\Procurement_3.pdf (p62)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 10.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p62)",
+          "docs\\Procurement_2.pdf (p12)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sead6e",
+    "ticket_id": "T873a3",
+    "user_id": "689",
+    "timestamp": "2025-09-05 12:25:59",
+    "rating": 9,
+    "feedback": "Resolved my concern quickly.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 11.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p42)",
+          "docs\\Facilities_2.pdf (p59)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 11.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p43)",
+          "docs\\Facilities_2.pdf (p98)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S6de3c",
+    "ticket_id": "T4706a",
+    "user_id": "879",
+    "timestamp": "2025-09-07 14:06:10",
+    "rating": 9,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 12.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p91)",
+          "docs\\Facilities_2.pdf (p88)",
+          "docs\\Facilities_3.pdf (p100)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 12.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p85)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Facilities ticket 12.",
+        "ai_answer": "AI suggested solution for complaint 3 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p54)",
+          "docs\\Facilities_2.pdf (p9)",
+          "docs\\Facilities_3.pdf (p37)",
+          "docs\\Facilities_4.pdf (p50)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Facilities ticket 12.",
+        "ai_answer": "AI suggested solution for complaint 4 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p90)",
+          "docs\\Facilities_2.pdf (p67)",
+          "docs\\Facilities_3.pdf (p62)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S60b7a",
+    "ticket_id": "T1f1ec",
+    "user_id": "717",
+    "timestamp": "2025-09-03 09:43:56",
+    "rating": 8,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for IT ticket 13.",
+        "ai_answer": "AI suggested solution for complaint 1 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p91)",
+          "docs\\IT_2.pdf (p29)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for IT ticket 13.",
+        "ai_answer": "AI suggested solution for complaint 2 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p6)",
+          "docs\\IT_2.pdf (p43)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for IT ticket 13.",
+        "ai_answer": "AI suggested solution for complaint 3 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p83)",
+          "docs\\IT_2.pdf (p46)",
+          "docs\\IT_3.pdf (p64)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for IT ticket 13.",
+        "ai_answer": "AI suggested solution for complaint 4 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p47)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S809d2",
+    "ticket_id": "T4b761",
+    "user_id": "393",
+    "timestamp": "2025-09-02 15:02:15",
+    "rating": 8,
+    "feedback": "The response was clear and helpful.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 14.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p69)",
+          "docs\\Procurement_2.pdf (p15)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 14.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p61)",
+          "docs\\Procurement_2.pdf (p90)",
+          "docs\\Procurement_3.pdf (p2)",
+          "docs\\Procurement_4.pdf (p64)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Procurement ticket 14.",
+        "ai_answer": "AI suggested solution for complaint 3 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p34)",
+          "docs\\Procurement_2.pdf (p72)",
+          "docs\\Procurement_3.pdf (p4)",
+          "docs\\Procurement_4.pdf (p10)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sf2ebe",
+    "ticket_id": "T59475",
+    "user_id": "758",
+    "timestamp": "2025-09-18 23:23:56",
+    "rating": 6,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for IT ticket 15.",
+        "ai_answer": "AI suggested solution for complaint 1 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p83)",
+          "docs\\IT_2.pdf (p88)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for IT ticket 15.",
+        "ai_answer": "AI suggested solution for complaint 2 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p8)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for IT ticket 15.",
+        "ai_answer": "AI suggested solution for complaint 3 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p12)",
+          "docs\\IT_2.pdf (p13)",
+          "docs\\IT_3.pdf (p82)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for IT ticket 15.",
+        "ai_answer": "AI suggested solution for complaint 4 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p21)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Scfb54",
+    "ticket_id": "T6e645",
+    "user_id": "753",
+    "timestamp": "2025-09-17 03:13:20",
+    "rating": 9,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 16.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p85)",
+          "docs\\Procurement_2.pdf (p27)",
+          "docs\\Procurement_3.pdf (p26)",
+          "docs\\Procurement_4.pdf (p5)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 16.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p1)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S06b3c",
+    "ticket_id": "T0cf2b",
+    "user_id": "670",
+    "timestamp": "2025-09-19 03:30:32",
+    "rating": 5,
+    "feedback": "Helpful overall, though slightly generic.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 17.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p93)",
+          "docs\\Facilities_2.pdf (p18)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 17.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p57)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sac22b",
+    "ticket_id": "Te1519",
+    "user_id": "290",
+    "timestamp": "2025-09-13 06:12:14",
+    "rating": 9,
+    "feedback": "The response was clear and helpful.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 18.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p81)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 18.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p100)",
+          "docs\\Facilities_2.pdf (p1)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Facilities ticket 18.",
+        "ai_answer": "AI suggested solution for complaint 3 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p65)",
+          "docs\\Facilities_2.pdf (p24)",
+          "docs\\Facilities_3.pdf (p17)",
+          "docs\\Facilities_4.pdf (p99)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Facilities ticket 18.",
+        "ai_answer": "AI suggested solution for complaint 4 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p53)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sab787",
+    "ticket_id": "T9f640",
+    "user_id": "269",
+    "timestamp": "2025-09-18 14:48:22",
+    "rating": 4,
+    "feedback": "I had to ask twice but got the answer.",
+    "num_sub_queries": 3,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 19.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p15)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 19.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p85)",
+          "docs\\HR_2.pdf (p87)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for HR ticket 19.",
+        "ai_answer": "AI suggested solution for complaint 3 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p23)",
+          "docs\\HR_2.pdf (p71)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S08a39",
+    "ticket_id": "T03559",
+    "user_id": "274",
+    "timestamp": "2025-09-15 05:25:51",
+    "rating": 7,
+    "feedback": "Resolved my concern quickly.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 20.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p77)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 20.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p11)",
+          "docs\\HR_2.pdf (p26)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S66325",
+    "ticket_id": "T5acee",
+    "user_id": "994",
+    "timestamp": "2025-09-12 17:44:43",
+    "rating": 8,
+    "feedback": "I had to ask twice but got the answer.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 21.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p60)",
+          "docs\\Procurement_2.pdf (p71)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 21.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p64)",
+          "docs\\Procurement_2.pdf (p79)",
+          "docs\\Procurement_3.pdf (p79)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Procurement ticket 21.",
+        "ai_answer": "AI suggested solution for complaint 3 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p31)",
+          "docs\\Procurement_2.pdf (p57)",
+          "docs\\Procurement_3.pdf (p98)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Procurement ticket 21.",
+        "ai_answer": "AI suggested solution for complaint 4 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p63)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Sd6c26",
+    "ticket_id": "T56e36",
+    "user_id": "401",
+    "timestamp": "2025-09-21 07:54:33",
+    "rating": 5,
+    "feedback": "Not fully clear, I had to follow up.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 22.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p75)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 22.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p58)",
+          "docs\\HR_2.pdf (p7)",
+          "docs\\HR_3.pdf (p28)",
+          "docs\\HR_4.pdf (p14)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S1b870",
+    "ticket_id": "T3bf52",
+    "user_id": "120",
+    "timestamp": "2025-09-13 00:36:58",
+    "rating": 9,
+    "feedback": "Helpful overall, though slightly generic.",
+    "num_sub_queries": 2,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 23.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p88)",
+          "docs\\Facilities_2.pdf (p10)",
+          "docs\\Facilities_3.pdf (p43)",
+          "docs\\Facilities_4.pdf (p90)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 23.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p96)",
+          "docs\\Facilities_2.pdf (p64)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S70c99",
+    "ticket_id": "T1dfba",
+    "user_id": "136",
+    "timestamp": "2025-09-18 18:46:11",
+    "rating": 9,
+    "feedback": "Resolved my concern quickly.",
+    "num_sub_queries": 4,
+    "escalated": true,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 24.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p68)",
+          "docs\\Procurement_2.pdf (p79)",
+          "docs\\Procurement_3.pdf (p7)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 24.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p61)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Procurement ticket 24.",
+        "ai_answer": "AI suggested solution for complaint 3 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p2)",
+          "docs\\Procurement_2.pdf (p75)",
+          "docs\\Procurement_3.pdf (p78)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Procurement ticket 24.",
+        "ai_answer": "AI suggested solution for complaint 4 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p33)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S0c468",
+    "ticket_id": "Tde198",
+    "user_id": "416",
+    "timestamp": "2025-09-19 19:27:16",
+    "rating": 8,
+    "feedback": "I had to ask twice but got the answer.",
+    "num_sub_queries": 3,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Procurement ticket 25.",
+        "ai_answer": "AI suggested solution for complaint 1 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p80)",
+          "docs\\Procurement_2.pdf (p16)",
+          "docs\\Procurement_3.pdf (p77)",
+          "docs\\Procurement_4.pdf (p14)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Procurement ticket 25.",
+        "ai_answer": "AI suggested solution for complaint 2 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p89)",
+          "docs\\Procurement_2.pdf (p34)",
+          "docs\\Procurement_3.pdf (p31)",
+          "docs\\Procurement_4.pdf (p24)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Procurement ticket 25.",
+        "ai_answer": "AI suggested solution for complaint 3 in Procurement.",
+        "sources": [
+          "docs\\Procurement_1.pdf (p12)",
+          "docs\\Procurement_2.pdf (p54)",
+          "docs\\Procurement_3.pdf (p87)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S2aa2d",
+    "ticket_id": "T79972",
+    "user_id": "501",
+    "timestamp": "2025-09-09 18:42:15",
+    "rating": 8,
+    "feedback": "The response was clear and helpful.",
+    "num_sub_queries": 4,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Facilities ticket 26.",
+        "ai_answer": "AI suggested solution for complaint 1 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p75)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Facilities ticket 26.",
+        "ai_answer": "AI suggested solution for complaint 2 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p75)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Facilities ticket 26.",
+        "ai_answer": "AI suggested solution for complaint 3 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p50)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for Facilities ticket 26.",
+        "ai_answer": "AI suggested solution for complaint 4 in Facilities.",
+        "sources": [
+          "docs\\Facilities_1.pdf (p29)",
+          "docs\\Facilities_2.pdf (p67)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S1dea4",
+    "ticket_id": "T28724",
+    "user_id": "573",
+    "timestamp": "2025-09-03 08:45:10",
+    "rating": 3,
+    "feedback": "Excellent support, thank you.",
+    "num_sub_queries": 2,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 27.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p35)",
+          "docs\\HR_2.pdf (p27)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 27.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p64)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "Se8e05",
+    "ticket_id": "T7e82f",
+    "user_id": "749",
+    "timestamp": "2025-09-16 14:24:24",
+    "rating": 6,
+    "feedback": "Pretty good, but lacked some detail.",
+    "num_sub_queries": 4,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for HR ticket 28.",
+        "ai_answer": "AI suggested solution for complaint 1 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p43)",
+          "docs\\HR_2.pdf (p69)",
+          "docs\\HR_3.pdf (p87)",
+          "docs\\HR_4.pdf (p29)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for HR ticket 28.",
+        "ai_answer": "AI suggested solution for complaint 2 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p62)",
+          "docs\\HR_2.pdf (p16)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for HR ticket 28.",
+        "ai_answer": "AI suggested solution for complaint 3 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p21)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 4 for HR ticket 28.",
+        "ai_answer": "AI suggested solution for complaint 4 in HR.",
+        "sources": [
+          "docs\\HR_1.pdf (p72)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S6f028",
+    "ticket_id": "T96288",
+    "user_id": "610",
+    "timestamp": "2025-09-21 01:29:09",
+    "rating": 5,
+    "feedback": "I had to ask twice but got the answer.",
+    "num_sub_queries": 3,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for Legal ticket 29.",
+        "ai_answer": "AI suggested solution for complaint 1 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p35)",
+          "docs\\Legal_2.pdf (p21)",
+          "docs\\Legal_3.pdf (p36)",
+          "docs\\Legal_4.pdf (p13)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for Legal ticket 29.",
+        "ai_answer": "AI suggested solution for complaint 2 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p44)",
+          "docs\\Legal_2.pdf (p94)",
+          "docs\\Legal_3.pdf (p89)",
+          "docs\\Legal_4.pdf (p11)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 3 for Legal ticket 29.",
+        "ai_answer": "AI suggested solution for complaint 3 in Legal.",
+        "sources": [
+          "docs\\Legal_1.pdf (p99)",
+          "docs\\Legal_2.pdf (p22)",
+          "docs\\Legal_3.pdf (p45)",
+          "docs\\Legal_4.pdf (p15)"
+        ]
+      }
+    ]
+  },
+  {
+    "session_id": "S33262",
+    "ticket_id": "Ta99a1",
+    "user_id": "847",
+    "timestamp": "2025-09-09 20:08:48",
+    "rating": 3,
+    "feedback": "Resolved my concern quickly.",
+    "num_sub_queries": 2,
+    "escalated": false,
+    "conversation": [
+      {
+        "complaint": "Sample complaint 1 for IT ticket 30.",
+        "ai_answer": "AI suggested solution for complaint 1 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p4)",
+          "docs\\IT_2.pdf (p51)",
+          "docs\\IT_3.pdf (p73)"
+        ]
+      },
+      {
+        "complaint": "Sample complaint 2 for IT ticket 30.",
+        "ai_answer": "AI suggested solution for complaint 2 in IT.",
+        "sources": [
+          "docs\\IT_1.pdf (p37)",
+          "docs\\IT_2.pdf (p31)"
+        ]
+      }
+    ]
+  }
+]

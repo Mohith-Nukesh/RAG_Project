@@ -1,0 +1,782 @@
+[
+  {
+    "faq_id": "F001",
+    "session_id": "S101",
+    "user_id": "U101",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 6,
+    "feedback": "It worked, but the instructions Much clearer now.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is the annual leave policy?",
+        "ai_answer": "Sample AI answer for: What is the annual leave policy?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could unused leave be carried forward?",
+        "ai_answer": "Sample AI answer for: Can unused leave be carried forward?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F002",
+    "session_id": "S102",
+    "user_id": "U102",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 8,
+    "feedback": "Pretty good, but Detailed and complete.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is the maternity leave policy?",
+        "ai_answer": "Sample AI answer for: What is the maternity leave policy?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Does paternity leave also available?",
+        "ai_answer": "Sample AI answer for: Is paternity leave also available?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F003",
+    "session_id": "S103",
+    "user_id": "U103",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 6,
+    "feedback": "The explanation was Clearer and faster to follow.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What is performance review conducted?",
+        "ai_answer": "Sample AI answer for: How is performance review conducted?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "At what time are appraisals done?",
+        "ai_answer": "Sample AI answer for: When are appraisals done?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F004",
+    "session_id": "S104",
+    "user_id": "U104",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 5,
+    "feedback": "Helpful response, but Provided with relevant examples.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How are the working hours?",
+        "ai_answer": "Sample AI answer for: What are the working hours?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Does work from home allowed?",
+        "ai_answer": "Sample AI answer for: Is work from home allowed?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F005",
+    "session_id": "S105",
+    "user_id": "U105",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 7,
+    "feedback": "Answer was okay, but More personalized and specific.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is the probation period?",
+        "ai_answer": "Sample AI answer for: What is the probation period?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could probation be extended?",
+        "ai_answer": "Sample AI answer for: Can probation be extended?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F006",
+    "session_id": "S106",
+    "user_id": "U106",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "HR",
+    "rating": 9,
+    "feedback": "The guidance was Very professional and structured.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How documents are needed for joining?",
+        "ai_answer": "Sample AI answer for: What documents are needed for joining?",
+        "sources": [
+          "HR_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Does Aadhaar mandatory?",
+        "ai_answer": "Sample AI answer for: Is Aadhaar mandatory?",
+        "sources": [
+          "HR_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F007",
+    "session_id": "S107",
+    "user_id": "U107",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 7,
+    "feedback": "The details were Concise and accurate.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I reset my email password?",
+        "ai_answer": "Sample AI answer for: How do I reset my email password?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How if my account gets locked?",
+        "ai_answer": "Sample AI answer for: What if my account gets locked?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F008",
+    "session_id": "S108",
+    "user_id": "U108",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 9,
+    "feedback": "The answer was More comprehensive and helpful.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I connect to VPN?",
+        "ai_answer": "Sample AI answer for: How do I connect to VPN?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How if VPN is slow?",
+        "ai_answer": "Sample AI answer for: What if VPN is slow?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F009",
+    "session_id": "S109",
+    "user_id": "U109",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 7,
+    "feedback": "It worked, but the instructions Much clearer now.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to request a new laptop?",
+        "ai_answer": "Sample AI answer for: How to request a new laptop?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could I choose the laptop model?",
+        "ai_answer": "Sample AI answer for: Can I choose the laptop model?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F010",
+    "session_id": "S110",
+    "user_id": "U110",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 7,
+    "feedback": "Pretty good, but Detailed and complete.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I install company software?",
+        "ai_answer": "Sample AI answer for: How do I install company software?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Is I need admin rights?",
+        "ai_answer": "Sample AI answer for: Do I need admin rights?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F011",
+    "session_id": "S111",
+    "user_id": "U111",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 5,
+    "feedback": "The explanation was Clearer and faster to follow.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How to do if internet is slow?",
+        "ai_answer": "Sample AI answer for: What to do if internet is slow?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Should I restart the router? (updated)",
+        "ai_answer": "Sample AI answer for: Should I restart the router?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F012",
+    "session_id": "S112",
+    "user_id": "U112",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "IT",
+    "rating": 9,
+    "feedback": "Helpful response, but Provided with relevant examples.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I report a phishing email?",
+        "ai_answer": "Sample AI answer for: How do I report a phishing email?",
+        "sources": [
+          "IT_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Should I forward it to IT? (updated)",
+        "ai_answer": "Sample AI answer for: Should I forward it to IT?",
+        "sources": [
+          "IT_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F013",
+    "session_id": "S113",
+    "user_id": "U113",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 9,
+    "feedback": "Answer was okay, but More personalized and specific.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is included in the NDA?",
+        "ai_answer": "Sample AI answer for: What is included in the NDA?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Does client information covered?",
+        "ai_answer": "Sample AI answer for: Is client information covered?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F014",
+    "session_id": "S114",
+    "user_id": "U114",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 6,
+    "feedback": "The guidance was Very professional and structured.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to handle a contract review?",
+        "ai_answer": "Sample AI answer for: How to handle a contract review?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Which person approves vendor contracts?",
+        "ai_answer": "Sample AI answer for: Who approves vendor contracts?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F015",
+    "session_id": "S115",
+    "user_id": "U115",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 8,
+    "feedback": "The details were Concise and accurate.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is intellectual property policy?",
+        "ai_answer": "Sample AI answer for: What is intellectual property policy?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could I patent my research work?",
+        "ai_answer": "Sample AI answer for: Can I patent my research work?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F016",
+    "session_id": "S116",
+    "user_id": "U116",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 6,
+    "feedback": "The answer was More comprehensive and helpful.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What are compliance trainings scheduled?",
+        "ai_answer": "Sample AI answer for: How are compliance trainings scheduled?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Are trainings mandatory? (updated)",
+        "ai_answer": "Sample AI answer for: Are trainings mandatory?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F017",
+    "session_id": "S117",
+    "user_id": "U117",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 6,
+    "feedback": "It worked, but the instructions Much clearer now.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is the whistleblower policy?",
+        "ai_answer": "Sample AI answer for: What is the whistleblower policy?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "What do I report anonymously?",
+        "ai_answer": "Sample AI answer for: How do I report anonymously?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F018",
+    "session_id": "S118",
+    "user_id": "U118",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Legal",
+    "rating": 5,
+    "feedback": "Pretty good, but Detailed and complete.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How to do in case of legal notice?",
+        "ai_answer": "Sample AI answer for: What to do in case of legal notice?",
+        "sources": [
+          "Legal_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Is I inform my manager first?",
+        "ai_answer": "Sample AI answer for: Do I inform my manager first?",
+        "sources": [
+          "Legal_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F019",
+    "session_id": "S119",
+    "user_id": "U119",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 5,
+    "feedback": "The explanation was Clearer and faster to follow.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I raise a request for office maintenance?",
+        "ai_answer": "Sample AI answer for: How do I raise a request for office maintenance?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How is the average resolution time?",
+        "ai_answer": "Sample AI answer for: What is the average resolution time?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F020",
+    "session_id": "S120",
+    "user_id": "U120",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 9,
+    "feedback": "Helpful response, but Provided with relevant examples.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to book a meeting room?",
+        "ai_answer": "Sample AI answer for: How to book a meeting room?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could I book for a full day?",
+        "ai_answer": "Sample AI answer for: Can I book for a full day?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F021",
+    "session_id": "S121",
+    "user_id": "U121",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 9,
+    "feedback": "Answer was okay, but More personalized and specific.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I request a parking slot?",
+        "ai_answer": "Sample AI answer for: How do I request a parking slot?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Does parking free for employees?",
+        "ai_answer": "Sample AI answer for: Is parking free for employees?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F022",
+    "session_id": "S122",
+    "user_id": "U122",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 8,
+    "feedback": "The guidance was Very professional and structured.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to get new ID card issued?",
+        "ai_answer": "Sample AI answer for: How to get new ID card issued?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How if my ID card is lost?",
+        "ai_answer": "Sample AI answer for: What if my ID card is lost?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F023",
+    "session_id": "S123",
+    "user_id": "U123",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 10,
+    "feedback": "The details were Concise and accurate.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I request cafeteria services?",
+        "ai_answer": "Sample AI answer for: How do I request cafeteria services?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could we request special meals?",
+        "ai_answer": "Sample AI answer for: Can we request special meals?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F024",
+    "session_id": "S124",
+    "user_id": "U124",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Facilities",
+    "rating": 6,
+    "feedback": "The answer was More comprehensive and helpful.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I report AC not working?",
+        "ai_answer": "Sample AI answer for: How do I report AC not working?",
+        "sources": [
+          "Facilities_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How is the usual fix time?",
+        "ai_answer": "Sample AI answer for: What is the usual fix time?",
+        "sources": [
+          "Facilities_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F025",
+    "session_id": "S125",
+    "user_id": "U125",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 10,
+    "feedback": "It worked, but the instructions Much clearer now.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I request office supplies?",
+        "ai_answer": "Sample AI answer for: How do I request office supplies?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How is the approval flow?",
+        "ai_answer": "Sample AI answer for: What is the approval flow?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F026",
+    "session_id": "S126",
+    "user_id": "U126",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 8,
+    "feedback": "Pretty good, but Detailed and complete.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to raise a purchase order?",
+        "ai_answer": "Sample AI answer for: How to raise a purchase order?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could I create a PO myself?",
+        "ai_answer": "Sample AI answer for: Can I create a PO myself?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F027",
+    "session_id": "S127",
+    "user_id": "U127",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 10,
+    "feedback": "The explanation was Clearer and faster to follow.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is vendor onboarding process?",
+        "ai_answer": "Sample AI answer for: What is vendor onboarding process?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "How documents are required?",
+        "ai_answer": "Sample AI answer for: What documents are required?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F028",
+    "session_id": "S128",
+    "user_id": "U128",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 7,
+    "feedback": "Helpful response, but Provided with relevant examples.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What do I track delivery of items?",
+        "ai_answer": "Sample AI answer for: How do I track delivery of items?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Could I get live tracking?",
+        "ai_answer": "Sample AI answer for: Can I get live tracking?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F029",
+    "session_id": "S129",
+    "user_id": "U129",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 9,
+    "feedback": "Answer was okay, but More personalized and specific.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "How is the budget approval process?",
+        "ai_answer": "Sample AI answer for: What is the budget approval process?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "What often are budgets revised?",
+        "ai_answer": "Sample AI answer for: How often are budgets revised?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  },
+  {
+    "faq_id": "F030",
+    "session_id": "S130",
+    "user_id": "U130",
+    "timestamp": "2025-09-20 19:08:35",
+    "domain": "Procurement",
+    "rating": 9,
+    "feedback": "The guidance was Very professional and structured.",
+    "num_sub_queries": 1,
+    "conversation": [
+      {
+        "complaint": "What to request bulk procurement?",
+        "ai_answer": "Sample AI answer for: How to request bulk procurement?",
+        "sources": [
+          "Procurement_Doc.pdf (p.1)"
+        ]
+      },
+      {
+        "complaint": "Is I need manager approval?",
+        "ai_answer": "Sample AI answer for: Do I need manager approval?",
+        "sources": [
+          "Procurement_Doc.pdf (p.2)"
+        ]
+      }
+    ]
+  }
+]
